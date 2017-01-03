@@ -1,0 +1,37 @@
+@font-face {
+    font-family: pro_bold;
+    src: url(http://SoftX-V.github.io/myriad-set-pro_bold.ttf);
+}
+@font-face {
+    font-family: pro_medium;
+    src: url(http://SoftX-V.github.io/myriad-set-pro_medium.ttf);
+}
+@font-face {
+    font-family: pro_semibold;
+    src: url(http://SoftX-V.github.io/myriad-set-pro_semibold.ttf);
+}
+@font-face {
+    font-family: pro_text;
+    src: url(http://SoftX-V.github.io/myriad-set-pro_text.ttf);
+}
+@font-face {
+    font-family: pro_thin;
+    src: url(http://SoftX-V.github.io/myriad-set-pro_thin.ttf);
+}
+@font-face {
+    font-family: pro_ultralight;
+    src: url(http://SoftX-V.github.io/myriad-set-pro_ultralight.ttf);
+}
+
+#input-ui	
+{
+	display: block;
+    margin: 0;
+    width: 100%;
+    font-family: pro_text;
+    font-size: 16px;
+    box-shadow: none;
+    padding: 4px;
+    border-radius: 3px;
+    border: 2px solid #484848;
+}
